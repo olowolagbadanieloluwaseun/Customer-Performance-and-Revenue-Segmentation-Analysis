@@ -61,7 +61,10 @@ The focus was to structure the analysis around decision-making, not just reporti
 ---
 ## Dashboard
 1. Light Theme
+<img width="828" height="466" alt="Customer Performance Dashboard (Light theme)" src="https://github.com/user-attachments/assets/ef50247d-7850-45a9-957e-caca276fc747" />
 
 ---
 
 2. Dark Theme
+<img width="831" height="465" alt="Customer Performance Dashboard (Dark theme)" src="https://github.com/user-attachments/assets/9a26a8c0-d27b-4d65-b2bb-7cfcd0d93304" />
+
