@@ -28,7 +28,6 @@ To address this, I:
 - Analyzed revenue across age groups, gender, and parental status  
 - Implemented a dynamic ranking system to identify top-performing customers in real time  
 
-The focus was to structure the analysis around decision-making, not just reporting.
 
 ---
 
